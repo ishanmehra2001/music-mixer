@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <clipPath id="clip-background">
+      <rect width="1920" height="1080"/>
+    </clipPath>
+  </defs>
+  <g id="background" clip-path="url(#clip-background)">
+    <rect width="1920" height="1080" fill="#fff"/>
+    <g id="Rectangle_1" data-name="Rectangle 1" fill="#b7a66d" stroke="#906d28" stroke-width="5">
+      <rect width="1920" height="1080" stroke="none"/>
+      <rect x="2.5" y="2.5" width="1915" height="1075" fill="none"/>
+    </g>
+    <g id="Polygon_1" data-name="Polygon 1" transform="translate(1054 1080) rotate(180)" fill="#9b7432">
+      <path d="M 185.359375 1040.5 L 1.640620946884155 1040.5 L 93.5 16.78371047973633 L 185.359375 1040.5 Z" stroke="none"/>
+      <path d="M 93.5 33.56756591796875 L 3.28125 1039 L 183.71875 1039 L 93.5 33.56756591796875 M 93.5 0 L 187 1042 L 0 1042 L 93.5 0 Z" stroke="none" fill="#000"/>
+    </g>
+    <g id="Polygon_2" data-name="Polygon 2" transform="matrix(-0.985, -0.174, 0.174, -0.985, 1055.609, 1096.642)" fill="#d5a152">
+      <path d="M 185.359375 1040.5 L 1.640620946884155 1040.5 L 93.5 16.78371047973633 L 185.359375 1040.5 Z" stroke="none"/>
+      <path d="M 93.5 33.56756591796875 L 3.28125 1039 L 183.71875 1039 L 93.5 33.56756591796875 M 93.5 0 L 187 1042 L 0 1042 L 93.5 0 Z" stroke="none" fill="#000"/>
+    </g>
+    <g id="Polygon_3" data-name="Polygon 3" transform="matrix(-0.985, 0.174, -0.174, -0.985, 1049.55, 1064.17)" fill="#d5a152">
+      <path d="M 185.359375 1040.5 L 1.640620946884155 1040.5 L 93.5 16.78371047973633 L 185.359375 1040.5 Z" stroke="none"/>
+      <path d="M 93.5 33.56756591796875 L 3.28125 1039 L 183.71875 1039 L 93.5 33.56756591796875 M 93.5 0 L 187 1042 L 0 1042 L 93.5 0 Z" stroke="none" fill="#000"/>
+    </g>
+    <g id="Polygon_4" data-name="Polygon 4" transform="translate(1056.77 1114.88) rotate(-160)" fill="#ddb84f">
+      <path d="M 185.359375 1040.5 L 1.640620946884155 1040.5 L 93.5 16.78371047973633 L 185.359375 1040.5 Z" stroke="none"/>
+      <path d="M 93.5 33.56756591796875 L 3.28125 1039 L 183.71875 1039 L 93.5 33.56756591796875 M 93.5 0 L 187 1042 L 0 1042 L 93.5 0 Z" stroke="none" fill="#000"/>
+    </g>
+    <g id="Polygon_5" data-name="Polygon 5" transform="translate(1057.024 1133.27) rotate(-150)" fill="#f7d095">
+      <path d="M 185.359375 1040.5 L 1.640620946884155 1040.5 L 93.5 16.78371047973633 L 185.359375 1040.5 Z" stroke="none"/>
+      <path d="M 93.5 33.56756591796875 L 3.28125 1039 L 183.71875 1039 L 93.5 33.56756591796875 M 93.5 0 L 187 1042 L 0 1042 L 93.5 0 Z" stroke="none" fill="#000"/>
+    </g>
+    <g id="Polygon_6" data-name="Polygon 6" transform="translate(1051.757 1152.531) rotate(-140)" fill="#eee595">
+      <path d="M 185.359375 1040.5 L 1.640620946884155 1040.5 L 93.5 16.78371047973633 L 185.359375 1040.5 Z" stroke="none"/>
+      <path d="M 93.5 33.56756591796875 L 3.28125 1039 L 183.71875 1039 L 93.5 33.56756591796875 M 93.5 0 L 187 1042 L 0 1042 L 93.5 0 Z" stroke="none" fill="#000"/>
+    </g>
+    <g id="Polygon_7" data-name="Polygon 7" transform="translate(1037.504 1050.922) rotate(160)" fill="#ddb84f">
+      <path d="M 185.359375 1040.5 L 1.640620946884155 1040.5 L 93.5 16.78371047973633 L 185.359375 1040.5 Z" stroke="none"/>
+      <path d="M 93.5 33.56756591796875 L 3.28125 1039 L 183.71875 1039 L 93.5 33.56756591796875 M 93.5 0 L 187 1042 L 0 1042 L 93.5 0 Z" stroke="none" fill="#000"/>
+    </g>
+    <g id="Polygon_8" data-name="Polygon 8" transform="translate(1025.923 1039.77) rotate(150)" fill="#f7d095">
+      <path d="M 185.359375 1040.5 L 1.640620946884155 1040.5 L 93.5 16.78371047973633 L 185.359375 1040.5 Z" stroke="none"/>
+      <path d="M 93.5 33.56756591796875 L 3.28125 1039 L 183.71875 1039 L 93.5 33.56756591796875 M 93.5 0 L 187 1042 L 0 1042 L 93.5 0 Z" stroke="none" fill="#000"/>
+    </g>
+    <g id="Polygon_9" data-name="Polygon 9" transform="translate(1014.044 1032.329) rotate(140)" fill="#eee595">
+      <path d="M 185.359375 1040.5 L 1.640620946884155 1040.5 L 93.5 16.78371047973633 L 185.359375 1040.5 Z" stroke="none"/>
+      <path d="M 93.5 33.56756591796875 L 3.28125 1039 L 183.71875 1039 L 93.5 33.56756591796875 M 93.5 0 L 187 1042 L 0 1042 L 93.5 0 Z" stroke="none" fill="#000"/>
+    </g>
+    <g id="Rectangle_2" data-name="Rectangle 2" transform="translate(20 22)" fill="none" stroke="#896a35" stroke-width="5">
+      <rect width="1880" height="1041" rx="1" stroke="none"/>
+      <rect x="2.5" y="2.5" width="1875" height="1036" rx="1.5" fill="none"/>
+    </g>
+    <path id="Path_1" data-name="Path 1" d="M0,0H1880V132H0Z" transform="translate(20 22)" fill="#8a3e3e"/>
+    <path id="Path_2" data-name="Path 2" d="M0,0H1880V15.892H0Z" transform="translate(20 154)" fill="#e9f865"/>
+    <circle id="Ellipse_1" data-name="Ellipse 1" cx="22.5" cy="22.5" r="22.5" transform="translate(0 137)" fill="#f8ff4b"/>
+    <circle id="Ellipse_2" data-name="Ellipse 2" cx="22.5" cy="22.5" r="22.5" transform="translate(1876 139)" fill="#f8ff4b"/>
+    <rect id="Rectangle_3" data-name="Rectangle 3" width="1876" height="118" transform="translate(23 945)" fill="#523d21"/>
+    <line id="Line_1" data-name="Line 1" x2="1875" transform="translate(23.5 967.5)" fill="none" stroke="#d9d32c" stroke-width="2"/>
+    <line id="Line_2" data-name="Line 2" x2="1875" transform="translate(22.5 980.5)" fill="none" stroke="#d9d32c" stroke-width="2"/>
+    <line id="Line_3" data-name="Line 3" x2="1875" transform="translate(22.5 993.5)" fill="none" stroke="#d9d32c" stroke-width="2"/>
+    <path id="Path_3" data-name="Path 3" d="M165.578,1020.425C160.738,553.994,42.964,544.884,42.964,544.884s62.83,37.581,142.291-276.568c26.381-104.3,33.263-107.18,33.263-107.18H42.964L24.485,183.311v837.114Z" transform="translate(0 12.108)" fill="#be3e3e" stroke="#707070" stroke-width="1"/>
+    <path id="Path_4" data-name="Path 4" d="M77.425,1020.425c4.84-466.431,122.614-475.541,122.614-475.541s-62.83,37.581-142.291-276.568c-26.381-104.3-33.263-107.18-33.263-107.18H200.039l18.479,22.175v837.114Z" transform="translate(1678.982 12.108)" fill="#be3e3e" stroke="#707070" stroke-width="1"/>
+    <g id="Group_1" data-name="Group 1" transform="translate(-239 -123)">
+      <ellipse id="Ellipse_3" data-name="Ellipse 3" cx="44.5" cy="4.5" rx="44.5" ry="4.5" transform="translate(254 674)" fill="#ffec00"/>
+      <ellipse id="Ellipse_4" data-name="Ellipse 4" cx="44.5" cy="4.5" rx="44.5" ry="4.5" transform="translate(254 681)" fill="#ffec00"/>
+      <ellipse id="Ellipse_5" data-name="Ellipse 5" cx="44.5" cy="4.5" rx="44.5" ry="4.5" transform="translate(254 687)" fill="#ffec00"/>
+      <ellipse id="Ellipse_6" data-name="Ellipse 6" cx="44.5" cy="4.5" rx="44.5" ry="4.5" transform="translate(254 692)" fill="#ffec00"/>
+      <path id="Path_5" data-name="Path 5" d="M315.408,701s30.333,26.411,16.786,58.217,14.136,37.107,14.136,37.107-21.5-12.074-10.307-39.463-14.43-54.188-14.43-54.188l-1.767-3.24Z" fill="#ffec00"/>
+      <ellipse id="Ellipse_7" data-name="Ellipse 7" cx="5.5" cy="6" rx="5.5" ry="6" transform="translate(341 790)" fill="#ffec00"/>
+    </g>
+    <g id="Group_2" data-name="Group 2" transform="translate(1813 554)">
+      <ellipse id="Ellipse_3-2" data-name="Ellipse 3" cx="44.5" cy="4.5" rx="44.5" ry="4.5" transform="translate(9)" fill="#ffec00"/>
+      <ellipse id="Ellipse_4-2" data-name="Ellipse 4" cx="44.5" cy="4.5" rx="44.5" ry="4.5" transform="translate(9 7)" fill="#ffec00"/>
+      <ellipse id="Ellipse_5-2" data-name="Ellipse 5" cx="44.5" cy="4.5" rx="44.5" ry="4.5" transform="translate(9 13)" fill="#ffec00"/>
+      <ellipse id="Ellipse_6-2" data-name="Ellipse 6" cx="44.5" cy="4.5" rx="44.5" ry="4.5" transform="translate(9 18)" fill="#ffec00"/>
+      <path id="Path_5-2" data-name="Path 5" d="M346.33,701S316,727.411,329.544,759.217s-14.136,37.107-14.136,37.107,21.5-12.074,10.307-39.463,14.43-54.188,14.43-54.188l1.767-3.24Z" transform="translate(-309.738 -674)" fill="#ffec00"/>
+      <ellipse id="Ellipse_7-2" data-name="Ellipse 7" cx="5.5" cy="6" rx="5.5" ry="6" transform="translate(0 116)" fill="#ffec00"/>
+    </g>
+    <text id="Representing_Indian_Classical_Instruments_-_Harmony_in_Tradition_" data-name="Representing Indian Classical Instruments -  &quot;Harmony in Tradition&quot;" transform="translate(68 29)" fill="#fdffbf" font-size="60" font-family="Pacifico-Regular, Pacifico"><tspan x="0" y="78" xml:space="preserve">Representing Indian Classical Instruments -  &quot;Harmony in Tradition&quot;</tspan></text>
+    <g id="Rectangle_4" data-name="Rectangle 4" transform="translate(678 1029)" fill="#b22020" stroke="#707070" stroke-width="1">
+      <rect width="565" height="51" stroke="none"/>
+      <rect x="0.5" y="0.5" width="564" height="50" fill="none"/>
+    </g>
+    <g id="Rectangle_5" data-name="Rectangle 5" transform="translate(720 994)" fill="#b43636" stroke="#707070" stroke-width="1">
+      <rect width="481" height="36" stroke="none"/>
+      <rect x="0.5" y="0.5" width="480" height="35" fill="none"/>
+    </g>
+    <g id="Path_6" data-name="Path 6" transform="translate(743 958)" fill="#b03333">
+      <path d="M 435.5 35.5 L 0.5 35.5 L 0.5 0.5 L 435.5 0.5 L 435.5 35.5 Z" stroke="none"/>
+      <path d="M 1 1 L 1 35 L 435 35 L 435 1 L 1 1 M 0 0 L 436 0 L 436 36 L 0 36 L 0 0 Z" stroke="none" fill="#707070"/>
+    </g>
+  </g>
+</svg>
