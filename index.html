@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>CLASSICAL MUSIC MIXER</title>
+        <link href="css/main.css" rel="stylesheet">        
+        
+
+    </head>
+
+
+    
+    <body>
+
+
+        <h1 class="hidden">Indian classical instruments</h1>
+
+         <audio id="audioEl" src="audios/flute.mp3"></audio>
+
+  
+
+
+         <div id="background">
+
+            <img src="images/background.jpg" >
+        </div>   
+        
+
+<!-- veena -->
+<div class="veena">
+<object data="images/veena-player.svg" type="image/svg+xml"> </object>
+
+ 
+ 
+
+</div>
+
+
+
+<!-- tabla-->
+<div class="tabla">
+<object data="images/tabla-player.svg" type="image/svg+xml" width="400"> </object>
+</div>
+
+<!-- flute -->
+<div class="flute">
+    <object data="images/flute-player.svg" type="image/svg+xml" width="400"> </object> 
+      
+    </div>   
+    
+
+<!-- sitar -->
+<div class="sitar">
+<object data="images/sitar-player.svg" type="image/svg+xml" width="400"> </object> 
+  
+</div>            
+    
+    
+
+  <!-- harmonium -->
+<div class="harmonium">
+    <object data="images/harmonium-player.svg" type="image/svg+xml" width="400"> </object> 
+      
+    </div>  
+             
+
+    <section id="game-boards">
+		<!-- these are the draggable pieces -->
+		<div class="puzzle-pieces">
+			<img id="peice1" src="images/sitar.jpg" class="music_image" alt="icon">
+			<img id="peice2" src="images/tabla.jpg" class="mucic_image" alt="icon2">
+			<img id="peice3" src="images/fluet.jpg" class="music_image" alt="icon3">
+			<img id="peice4" src="images/veena.jpg" class="music_image" alt="icon4">
+            <img id="peice5" src="images/harmonium.jpeg " class="music_image" alt="icon5">
+		</div>
+
+
+
+
+		<!-- we want to drop the draggable pieces here -->
+        <div class="drag_back">
+
+
+
+            <div id="dz1" data-trackref="veena" class="drop-zone"  >
+                <img src="images/veena_icon.jpg" alt="">
+            </div>
+            
+
+
+            <div data-trackref="tabla" class="drop-zone" id="dz2">
+                <img src="images/tabla_icon.jpg" alt="">
+            </div>
+
+
+            <div data-trackref="flute" class="drop-zone" id="dz3">
+                <img src="images/flute_icon.jpg" alt="" >
+            </div>
+
+        
+            <div data-trackref="sitar" class="drop-zone" id="dz4">
+                <img src="images/sitar_icon.jpg" alt="" >
+            </div>
+
+            <div data-trackref="harmonium" class="drop-zone" id="dz5">
+                <img src="images/har_icon.jpg" alt="" >
+            </div>
+
+
+           <!--  -->
+            
+        </div>
+        
+	</section>
+
+ 
+    
+    <footer>
+
+    </footer>
+    
+
+    <script src="js/main.js"></script>           
+    
+         
+    </body>
+</html>                
