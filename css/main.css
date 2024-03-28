@@ -1,0 +1,182 @@
+body{
+    background-image: url(../images/background.jpg);
+    background-repeat:no-repeat;
+    background-color: black;
+  }
+  
+  
+  #background{
+      margin-left: 135px;
+  }
+  
+  #background img{
+      width: 1200px;
+      height: auto;
+      align-self: center;
+      justify-content: center;
+  }
+  
+  .hidden{
+      display: none;
+  }
+  
+  
+  
+  
+  .puzzle-pieces img{
+      border: solid 3px black;
+      border-radius: 5px;
+      width: 200px !important;
+  
+  }
+  
+  
+  .veena{
+      position: absolute;
+      top: 415px;
+      left: 209px;
+  
+  }
+  
+  .tabla{
+      
+      position: absolute;
+      top: 380px;
+      left: 478px;
+  }
+  
+  .flute{
+  position: absolute;
+  top: 410px;
+  left: 622px;
+  }
+  
+  .sitar{
+  position: absolute;
+  top: 330px;
+  left: 860px;
+  }
+  
+  
+  
+  .harmonium{
+      position: absolute;
+      top: 370px;
+      left: 1031px;
+  }
+  
+  
+  
+  
+  .veena object{
+  width: 270px;
+  }
+  
+  .tabla object  {
+      width: 160px;
+  }
+  
+  
+  
+  .flute object{
+      width: 220px;
+  }
+  
+  
+  .sitar object {
+      
+      width: 170px;
+  }
+  
+  .harmonium object{
+      
+  width: 200px;}
+  
+  /*peices to be dragged*/
+  .puzzle-pieces {
+      margin-top: -550px;
+    margin-left: 506px;
+      gap: 20px;
+      width: 76px;
+      height: 66px;
+      display: flex;
+      flex-direction:row;
+  }
+  
+  
+  
+  /*drop area*/
+  .drag_back{
+      position: relative;
+      z-index: 7;
+      margin-top: 410px;
+      margin-left: 274px;
+        gap: 114px;
+        width: 80px;
+        height: 69px;
+        display: flex;
+        flex-direction:row;
+  }
+  
+  
+  
+  
+  
+  #dz1 img, #dz2 img, #dz3 img, #dz4 img, #dz5 img{
+      width: 80px;   
+      border: solid 2px black;
+      border-radius: 10px;
+  }
+  
+  
+  
+  
+  #dz1{
+      width: 100px;
+      height: auto;
+      margin-bottom: 10px;
+      background-image: url(../images/veena.jpg);
+      border-radius: 10px;
+      /* border: solid 10px black; */
+  }
+  
+  #dz2{
+      width: 100px;
+      height: auto;
+      margin-bottom: 10px;
+      border-radius: 10px;
+      background-image: url(../images/veena.jpg);
+      /* border: solid 10px black; */
+  }
+  
+  #dz3{
+      width: 100px;
+      height: auto;
+      margin-bottom: 10px;
+      border-radius: 10px;
+      background-image: url(../images/veena.jpg);
+      /* border: solid 10px black; */
+  }
+  
+  #dz4{
+      width: 100px;
+      height: auto;
+      margin-bottom: 10px;
+      border-radius: 10px;
+      background-image: url(../images/veena.jpg);
+      /* border: solid 10px black; */
+  }
+  #dz5{
+      width: 100px;
+      height: auto;
+      margin-bottom: 10px;
+      border-radius: 10px;
+      background-image: url(../images/veena.jpg);
+      /* border: solid 10px black; */
+  }
+  
+  
+  
+  /*  */
+  /*  */
+  /*  */
